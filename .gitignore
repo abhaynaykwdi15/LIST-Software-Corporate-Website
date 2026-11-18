@@ -1,0 +1,11 @@
+node_modules/
+dist/
+.venv/
+__pycache__/
+*.py[cod]
+.env
+backend/.env
+backend/*.db
+backend/*.sqlite*
+backend/uploads/
+backend/alembic/versions/__pycache__/
